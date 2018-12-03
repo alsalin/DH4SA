@@ -4,4 +4,15 @@ description: The Emory Digital Humanities Symposium &mdash; DH for the Study and
 plugins:
   - jekyll-include-cache
 minimal_mistakes_skin: "sunrise"
+locale: "en-US"
+timezone: America/New_York
+repository: "alsalin/DH4SA"
+search: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 
