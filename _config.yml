@@ -3,3 +3,5 @@ title: Emory Digital Humanities Symposium &mdash; DH for the Study and Teaching 
 description: The Emory Digital Humanities Symposium &mdash; DH for the Study and Teaching of South Asia was a two-day interdisciplinary and international symposium on newly formed approaches to digital humanities (DH) in the field of South Asian Studies.
 plugins:
   - jekyll-include-cache
+minimal_mistakes_skin: "sunrise"
+
