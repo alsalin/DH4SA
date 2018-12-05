@@ -8,4 +8,12 @@
 @import "minimal-mistakes"; // main partials
 
 $base00: #F4F6F7;
-$link-color: blue;
+$link-color: #6a7f36;
+
+.body, h1, h2, h3, h4, h5 ,h6{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
+
+.page__footer{
+  background-color: #c2842b;
+}
