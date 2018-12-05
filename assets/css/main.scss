@@ -7,8 +7,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$background-color: #F4F6F7;
-$link-color: #6a7f36;
+$base00: #F4F6F7;
+$base08: #6a7f36;
+$base02: #c2842b;
 
 
 $sans-serif:'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
