@@ -1,4 +1,6 @@
-$base00: #F4F6F7;
-
+---
+---
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+$base00: #F4F6F7;
