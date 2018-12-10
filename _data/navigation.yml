@@ -13,11 +13,9 @@ sidebar-about:
   - title: "About"
     url: /about/
     children:
-      - title: "Background"
-        url: /child-1-page-url/
       - title: "Symposium"
-        url: /child-2-page-url/
+        url: /symposium/
       - title: Participants
-        url: #
+        url: /participants/
       - title: "Our Sponsors"
-        url: #
+        url: /our-sponsors/
