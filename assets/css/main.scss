@@ -14,7 +14,7 @@ ul.tabcontrol.tabs {
     margin: 0;
     height: 25px;
     box-sizing: border-box;
-    border-bottom: 1px solid $lightgrey;
+    border-bottom: 1px solid lightgrey;
 }
 
 ul.tabcontrol.tabs li.tab {
@@ -42,7 +42,7 @@ ul.tabcontrol.tabs li.tabcontrol.tab.active {
 }
 
 ul.tabcontrol.tabs li.tabcontrol.tab:first-child {
-    border-left: 1px solid $lightgrey;
+    border-left: 1px solid lightgrey;
 }
 
 div.tabcontrol.body {
@@ -50,7 +50,7 @@ div.tabcontrol.body {
 }
 
 div.tabcontrol.body.fullborder {
-    border: 1px solid $lightgrey;
+    border: 1px solid lightgrey;
     border-top: none;
     padding: 10px;
 }
