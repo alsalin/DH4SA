@@ -10,4 +10,4 @@ The Emory Digital Humanities Symposium: DH for the Study and Teaching of South A
 
 The two-day symposium of panels, demos, and a roundtable discussion will replicate the cycle of scholarly production – one in which individuals access archives or create their own, analyze data, teach about their research, craft scholarship, and publish in some format for public consumption.
 
-For more information about the symposium, contact Ellen Ambrosone (ellen [dot] ambrosone [at] emory.edu) and Anandi Silva Knuppel (anandi [dot] silva [dot] knuppel [at] emory.edu).
+For more information about the initiative or the 2018 symposium at Emory University, contact Ellen Ambrosone (TBD) and Anandi Silva Knuppel (anandi [dot] silva [dot] knuppel [at] emory.edu).
