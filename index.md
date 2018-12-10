@@ -1,6 +1,7 @@
 ---
 permalink: /home/
 title: "DH4SA: Digital Humanities for the Study and Teaching of South Asia"
+excerpt: &nbsp;
 header:
   overlay_image: https://scholarblogs.emory.edu/dh4sa/files/2018/03/cropped-banner_web_header.png
   overlay_filter: 0.5
