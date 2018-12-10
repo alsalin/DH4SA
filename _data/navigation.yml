@@ -1,15 +1,15 @@
 # main links
 main: 
-  - title: Home
+  - title: "Home"
     url: /home/
-  - title: About
+  - title: "About"
     url: /about/
     children:
       - title: "Child Link 1"
         url: /child-1-page-url/
       - title: "Child Link 2"
         url: /child-2-page-url/
-  - title: Schedule
+  - title: "Schedule"
     url: /schedule/
-  - title: Media
+  - title: "Media"
     url: /media/
