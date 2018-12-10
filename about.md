@@ -4,6 +4,7 @@ header:
   overlay_image: https://scholarblogs.emory.edu/dh4sa/files/2018/03/cropped-banner_web_header.png
   overlay_filter: 0.4
 ---
+{% include tabcontrol.html bodyclass="fullborder" tabs=page.tabs id="foo" %}
 tabs: 
     tab1:
         name: foo
@@ -24,6 +25,7 @@ tabs:
         name: baz
         title: Page Three
         source: source3
+
 <div class="hidden" id="foo__source1" markdown="1">
 In recent years, the digital humanities (DH) have created a shift in scholarly, publishing, and library worlds. Yet there is no clear consensus on what we mean when we use this phrase. What is the digital humanities? What are the digital humanities? As a way of approaching the topic, it is helpful to consider DH as a set of practices comprising four areas. Chris Forster, Assistant Professor in the department of English and Textual Studies at Syracuse University, articulated these areas on HASTAC (Humanities, Arts, Science, and Technology Alliance and Collaboratory) in 2010 as a graduate student at the University of Virginia. They are:
 
