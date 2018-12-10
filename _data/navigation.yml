@@ -1,9 +1,9 @@
 # main links
 main:
 - title: "Home"
-url: #
+url: /home/
 - title: "About"
-url: #
+url: /about/
 - title: "Schedule"
 url: #
 - title: "Media"
