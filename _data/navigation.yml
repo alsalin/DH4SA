@@ -4,12 +4,20 @@ main:
     url: /home/
   - title: "About"
     url: /about/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
   - title: "Schedule"
     url: /schedule/
   - title: "Media"
     url: /media/
+
+sidebar-about:
+  - title: "About"
+    url: /about/
+    children:
+      - title: "Background"
+        url: /child-1-page-url/
+      - title: "Symposium"
+        url: /child-2-page-url/
+      - title: Participants
+        url: #
+      - title: "Our Sponsors"
+        url: #
