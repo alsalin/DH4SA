@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "About"
-  url: /about/
-  - title: "Schedule"
-  url: #
-  - title: "Media"
-  url: #
+- title: "About"
+url: /about/
+- title: "Schedule"
+url: #
+- title: "Media"
+url: #
