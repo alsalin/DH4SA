@@ -4,6 +4,11 @@ main:
     url: /index.md
   - title: About
     url: /about/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
   - title: Schedule
     url: /schedule/
   - title: Media
