@@ -25,6 +25,6 @@ sidebar-schedule:
     url: /schedule/
     children:
       - title: "Day One: Friday, April 6, 2018"
-        url: /day-one-2018/
+        url: /schedule/
       - title: "Day Two: Friday, April 7, 2018"
         url: /day-two-2018/
