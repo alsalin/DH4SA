@@ -1,6 +1,6 @@
 ---
 title: "DH4SA: Digital Humanities for the Study and Teaching of South Asia"
-permalink: /day-one-2018/
+permalink: /schedule/
 sidebar:
   nav: "sidebar-schedule"
 header:
