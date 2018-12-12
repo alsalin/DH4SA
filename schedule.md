@@ -15,7 +15,6 @@ header:
 **9:30am Opening Remarks**  
 
 **10am Archives Panel**
-
 Ellen Ambrosone and Neel Agrawal  
 *South Asia Open Archives (SAOA)*  
 Gil Ben-Herut and Jon Keune   
@@ -28,18 +27,15 @@ Poushali Bhadury
 **12:00pm – 1:30pm Break**  
 
 **1:30 – 2:30pm Text Panel**
-
 Andrew Ollett   
 *Modes of Philological Production*  
 Nicole Merkel-Hilf  
 *Naval Kishore Press – digital: From hidden treasure to Open Access*
 
 **2:30 – 2:50pm Coffee Break and Demo**  
-
 Andrew Ollett (SARIT)
 
 **2:50pm – 4:30pm Demos**  
-
 Charles Li and Tim Bellefleur  
 *Visualizing Variation in Sanskrit Texts*  
 Yigal Bronner  
