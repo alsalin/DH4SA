@@ -8,6 +8,7 @@ header:
   overlay_filter: 0.4
 ---
 <div class="begin-examples"></div>
+## Day one: Friday, April 6, 2018
 
 ### **9:00am Coffee and Pastries**  
 
