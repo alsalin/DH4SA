@@ -1,6 +1,6 @@
 ---
 title: "DH4SA: Digital Humanities for the Study and Teaching of South Asia"
-permalink: /about/
+permalink: /participants/
 sidebar:
   nav: "sidebar-about"
 header:
