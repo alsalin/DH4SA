@@ -1,3 +1,12 @@
+---
+title: "DH4SA: Digital Humanities for the Study and Teaching of South Asia"
+permalink: /about/
+sidebar:
+  nav: "sidebar-about"
+header:
+  overlay_image: https://scholarblogs.emory.edu/dh4sa/files/2018/03/cropped-banner_web_header.png
+  overlay_filter: 0.4
+---
 Neel Agrawal, Center for Research Libraries
 Ellen Ambrosone, Emory University
 Tim Bellefleur, University of British Columbia
