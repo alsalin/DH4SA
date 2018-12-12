@@ -19,3 +19,12 @@ sidebar-about:
         url: /participants/
       - title: "Our Sponsors"
         url: /our-sponsors/
+        
+sidebar-schedule:
+  - title: "Schedule"
+    url: /schedule/
+    children:
+      - title: "Day One: Friday, April 6, 2018"
+        url: /day-one-2018/
+      - title: "Day Two: Friday, April 7, 2018"
+        url: /day-two-2018/
