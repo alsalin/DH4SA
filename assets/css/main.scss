@@ -1,28 +1,24 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-$base00: #F4F6F7;
-$base01: #F4F6F7;
-$base02: #c2842b;
-$background-color: #F4F6F7;
-
-$link-color: #6a7f36;
-
-$sans-serif : 'Gill Sans', 'Gill Sans MT', sans-serif;
-
+/*----------------------------
+    Two column layout stuff
+  ---------------------------*/
+/* Main Section Headings and sub headings */
 article .begin-examples ~ h2,
 article .begin-examples ~ h2 + p {
     width: 100%;
     clear: both;
 }
 
-
+/* Columns */
 article .begin-examples ~ h3,
 article .begin-examples ~ p,
 article .begin-examples ~ .highlight {
     width: 50%;
 }
 
+/* Left Column */
 article .begin-examples ~ h3,
 article .begin-examples ~ p {
     float: left;
@@ -31,18 +27,14 @@ article .begin-examples ~ p {
     clear: both;
 }
 
-
+/* Right Column */
 article .begin-examples ~ .highlight {
     float: right;
     clear: right;
     margin-bottom: 1rem;
 }
 
-
-.end-examples {
-    clear: both;
-}
-
+/* Reset */
 article .end-examples ~ p,
 article .end-examples ~ h3,
 article .end-examples ~ .highlight {
@@ -50,6 +42,35 @@ article .end-examples ~ .highlight {
     float: none;
     clear: none;
 }
+
+.end-examples {
+    clear: both;
+}
+
+@media print, screen and (max-width: 580px) {
+
+/*----------------------------
+    Two column layout media
+  ---------------------------*/
+article .begin-examples ~ h3,
+article .begin-examples ~ p,
+article .begin-examples ~ .highlight {
+    width: 100%;
+    float: none;
+    clear: none;
+}
+
+}
+
+
+$base00: #F4F6F7;
+$base01: #F4F6F7;
+$base02: #c2842b;
+$background-color: #F4F6F7;
+
+$link-color: #6a7f36;
+
+$sans-serif : 'Gill Sans', 'Gill Sans MT', sans-serif;
 
 
 @charset "utf-8";
